@@ -21,3 +21,7 @@ plot(1:10)
 (Note: You need to install R before you can use RStudio)
 
   MacOS and Windows users can click this link and follow instructions on the site to download and setup RStudio. [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
+
+After setting up the IDE you should get a workspace that looks similar to this. 
+
+<img width="700" alt="Screen Shot 2023-03-29 at 2 03 56 PM" src="https://user-images.githubusercontent.com/104386126/228628251-e2736a10-92cf-4f7b-8282-e7e8f7ab115f.png">
