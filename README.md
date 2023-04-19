@@ -25,3 +25,16 @@ plot(1:10)
 After setting up the IDE you should get a workspace that looks similar to this. 
 
 <img width="700" alt="Screen Shot 2023-03-29 at 2 03 56 PM" src="https://user-images.githubusercontent.com/104386126/228628251-e2736a10-92cf-4f7b-8282-e7e8f7ab115f.png">
+
+You can type code directly into the console after the ">" command prompt. For example, in the image below we typed 1+1 and after pressing enter, R returned 2.
+```R
+>1+1
+[1] 2
+>
+```
+
+<img width="700" alt="Screen Shot 2023-04-18 at 11 01 54 PM" src="https://user-images.githubusercontent.com/104386126/232955972-4c7dce96-73e6-4dad-8d66-37995b64a652.png">
+
+However, typing code in line by line can get confusing and hard to keep track of the larger your projects get. There is the option to write all your R code in an R script file which contains all your code as plain text. Click "File", "New file", and select "R script"
+
+<img width="700" alt="Screen Shot 2023-04-18 at 10 58 26 PM" src="https://user-images.githubusercontent.com/104386126/232955806-89ce99f4-e3c2-47a0-82fc-cba6f5b7f615.png">
